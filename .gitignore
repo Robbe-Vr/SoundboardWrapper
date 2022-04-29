@@ -2,4 +2,5 @@
 *.backup
 *.clef
 bin
+obj
 build
